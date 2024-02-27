@@ -369,7 +369,7 @@ Candidate
 
 | ID  | Description | Required Quantity  | KPI | Max Points |
 |  :---:  |  ---  |  :---:  |  :---:  |  :---:  |
-| AM | Neurolanche's regionalized account management in your native language. Translation and replication of content posted on the main account @neurolanche. | 20+ per month  | Reach & engagement | 25 |
+| AM | Neurolanche's regionalized account management in your native language. Translation and/or replication of content posted on the main account @neurolanche. | 20+ per month  | Reach & engagement | 25 |
 | SM | Promote Neurolanche across relevant social media platforms. At least 3 original contents about Neurolanche in in our main account | 12 per month  | Reach & engagement | 25 |
 | CM | Community: nurture, support and manage your local and our global Neurolanche community. The goals of this tasks are to engage, monitor and retain users whilst cocreating a culture that best serves Neurolanche's vision, brand, and community.| Daily | Quality & consistency |  15 |
 | WM | Participate in Ambassador Meetings.| Weekly | Consistency |  15 |
