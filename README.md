@@ -94,7 +94,7 @@ By becoming a Neurolanche Ambassador, you will enjoy:
 2. Discord Role
 3. The ability to add "Neurolanche Ambassador" or "Neurolanche Head Ambassador" to your social media profiles
 4. Access to perks exclusive to Ambassadors
-5. Monthly revenue in $ASTR, in the future in $NEROX.
+5. Monthly revenue in $NEROX.
 6. Whitelist and advance information on all our future projects.
 
 
@@ -115,7 +115,7 @@ Here’s some important information:
 - Applications for Ambassador are always open.
 - There is no limit on the number of Ambassadors.
 - Ambassador are reviewed bi-annually. To maintain your status, stay active in community engagement, complete periodic tasks, participate in community events and activities.
-- Apply to become a Neurolanche Ambassador via this link. [FORM]
+- Apply to become a Neurolanche Ambassador via this link: http://tinyurl.com/Neurolanche
 
 
 3 - Welcome to the Neurolanche Ambassador Program
@@ -147,8 +147,8 @@ Expectations:
 5. Play a key role in our marketing, community management, and content creation efforts.
 
 Benefits:
-1. Monthly rewards – Earn $ASTR for completing specific tasks.And in the future $NEROX payment and airdrop.
-2. Result-based bonuses – Receive additional $ASTR for surpassing monthly targets.
+1. Monthly rewards – Earn $NEROX for completing specific tasks.
+2. Result-based bonuses – Receive additional rewards for surpassing monthly targets.
 3. Promotional rewards – $NEROX aidrops and other benefits eventually
 4. Networking opportunities – Collaborate with Neurolanche’s core team, attend local events, and participate in conferences sponsored by the team.
 5. Mentorship & guidance – Refine your skills and gain real-world experience in Web3.
@@ -323,19 +323,17 @@ On a monthly basis, ambassadors will be required to submit a comprehensive repor
 
 Reward system:
 
-- Monthly, consistently, 4000 ASTR + 1000 NEROX tokens for each head Ambassador.
-- A bonus of 50,000 ASTR (approximately $10,000) for ambassadors who successfully complete all tasks after fundraising and ICO.
-- During ICO and fundraising, each ambassador receives a referral code. Earn a certain percentage from individuals who make purchases using the referral code.
-- Bonus for each milestone with the launch of DApp Staking v3 (TBA). For example:
-    
-    When we reach 50 million ASTR: x ASTR
-    When we reach 75 million ASTR: x ASTR
-    When we reach 100 million ASTR: x ASTR
-    When we reach 125 million ASTR: x ASTR
-    When we reach 150 million ASTR: x ASTR
-    When we reach 175 million ASTR: x ASTR
-    When we reach 200 million ASTR: x ASTR
-    
+Head Ambassador
+- Monthly, consistently, 500 USD + 1000 NEROX tokens for each head Ambassador.
+- During ICO and fundraising, each ambassador receives a referral code. Earn a certain percentage from individuals who make purchases using the referral code
+
+Ambassador
+
+- Monthly, consistently, NEROX tokens (TBA) for each Ambassador.
+- During ICO and fundraising, each ambassador receives a referral code. Earn a certain percentage from individuals who make purchases using the referral code
+
+Candidate 
+- No rewards
 
 # How does the ambassador program work?
 
@@ -374,7 +372,7 @@ Reward system:
 | AM | Neurolanche's regionalized account management in your native language. Translation and replication of content posted on the main account @neurolanche. | 20+ per month  | Reach & engagement | 25 |
 | SM | Promote Neurolanche across relevant social media platforms. At least 3 original contents about Neurolanche in in our main account | 12 per month  | Reach & engagement | 25 |
 | CM | Community: nurture, support and manage your local and our global Neurolanche community. The goals of this tasks are to engage, monitor and retain users whilst cocreating a culture that best serves Neurolanche's vision, brand, and community.| Daily | Quality & consistency |  15 |
-| WM | Participate in weekly Ambassador Meetings.| Weekly | Consistency |  15 |
+| WM | Participate in Ambassador Meetings.| Weekly | Consistency |  15 |
 
 ## Supplementary Task (Choose up to 2 tasks/month)
 
