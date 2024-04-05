@@ -379,7 +379,7 @@ Candidate
 | ID  | Description | Required Quantity  | KPI | Max Points |
 |  :---:  |  ---  |  :---:  |  :---:  |  :---:  |
 | EC | Create and share educational content about Neurolanche, including tutorials, guides, and explanations about the ecosystem's features. | 5 per month  | Speed & effectiveness  | 10 |
-| CC | The Content Creator: Write an article (at least 800 words) per week, translate an article (that is over 1k words) per week or make a maximum 10 minutes length of video about Neurolanche per week. Content has to be ORIGINAL.  | 2 per month  | Quality & Reach  | 10 |
+| CC | The Content Creator: Write an article (at least 800 words) per week, translate an article (that is over 1k words) per week or make a maximum 10 minutes length of video about Neurolanche per week. Content has to be ORIGINAL.  | 4 per month  | Quality & Reach  | 10 |
 | EM  | The Event Manager: Organize an online/physical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session.  | 1 per month  | Quality & Engagement  | 15 |
 | BD  | The Business Developer and dApp staker attractor: Reach out to projects to build on Neurolanche. You have to be able to pitch about Neurolanche before handing over the project to Leo or Defiguy. And attract new people/whales to our dApp staking V3 ith proof of your referral your influence | 1 per month  | Quality & Success  | 20 |
 | ART | The Artist: This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use.  | 1 per month  | Quality  | 10 |
