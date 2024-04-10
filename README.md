@@ -324,7 +324,7 @@ On a monthly basis, ambassadors will be required to submit a comprehensive repor
 Reward system:
 
 Head Ambassador
-- Monthly, consistently, 500 USD + 1000 NEROX tokens for each head Ambassador.
+- Monthly, consistently, 500 USD + 500 USD in NEROX tokens for each head Ambassador.
 - During ICO and fundraising, each ambassador receives a referral code. Earn a certain percentage from individuals who make purchases using the referral code
 
 Ambassador
