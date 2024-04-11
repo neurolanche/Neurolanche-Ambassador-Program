@@ -341,7 +341,7 @@ Candidate
 -	Both mandatory and supplementary tasks are available.
 -	ALL mandatory tasks must be completed monthly.
 -	Supplementary tasks are optional but encouraged.
--	A maximum of 2 different supplementary tasks can be completed, per month.
+-	A maximum of 3 different supplementary tasks can be completed, per month.
 
 2. Points:
 
