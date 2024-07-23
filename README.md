@@ -271,11 +271,6 @@ Create Original Weekly Contents About Neurolanche:
 
 Ambassadors are expected to produce a minimum of three original pieces of content per week on their official profiles. This can include articles, posts, videos, or any other creative content related to Neurolanche.
 
-Establish Regionalized Neurolanche Profiles:
-
-Create and manage regionalized Neurolanche profiles, such as Neurolanche Japan, Neurolanche China, etc. These regional profiles will repost all content from the original Neurolanche profile in translated form, catering to local audiences.
-Participate in Biweekly Ambassador Meetings:
-
 Participate in Biweekly Ambassador Meetings:
 
 Ambassadors are required to actively participate in biweekly ambassador meetings. These meetings will serve as a platform to discuss strategies, updates, and address any questions or concerns from the ambassador community.
