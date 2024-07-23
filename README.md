@@ -319,16 +319,13 @@ On a monthly basis, ambassadors will be required to submit a comprehensive repor
 Reward system:
 
 Head Ambassador
-- Monthly, consistently, 500 USD + 500 USD in NEROX tokens for each head Ambassador.
+- Monthly, consistently, 800 USD in NEROX (200 Nerox) tokens for each head Ambassador.
 - During ICO and fundraising, each ambassador receives a referral code. Earn a certain percentage from individuals who make purchases using the referral code
 
 Ambassador
 
-- Monthly, consistently, NEROX tokens (TBA) for each Ambassador.
+- MMonthly, consistently, 500 USD in NEROX (125 Nerox) tokens for each head Ambassador.
 - During ICO and fundraising, each ambassador receives a referral code. Earn a certain percentage from individuals who make purchases using the referral code
-
-Candidate 
-- No rewards
 
 # How does the ambassador program work?
 
@@ -353,7 +350,7 @@ Candidate
 -	The reward pool comes from the Neurolanche treasury. The reward pool may change depending on how much it is getting.
 
 4. Ambassador hierarchy: 
--	Our structure: Candidates, Ambassador and Head Ambassador
+-	Our structure: Ambassador and Head Ambassador
 -	All successful applicants to our ambassador programme will begin as either an Ambassador or a Head ambassador. 
 -	Your starting position will depend on how well your application meets our criteria: skillsets, experience, knowledge of Neurolanche
 
