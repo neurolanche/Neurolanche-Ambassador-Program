@@ -1,5 +1,7 @@
 # Neurolanche-Ambassador-Program
 
+Apply to become a Neurolanche Ambassador via this link: https://docs.google.com/forms/u/8/d/18ZzqaAqmQlX89MAG4wcOKioCv4BuLZ9SLv-56gR-eIg/
+
 1 - Ambassador Rules and Guidelines
 
 1.1 - Familiarize Yourself with Neurolanche's Tone and Voice:
@@ -115,7 +117,7 @@ Here’s some important information:
 - Applications for Ambassador are always open.
 - There is no limit on the number of Ambassadors.
 - Ambassador are reviewed bi-annually. To maintain your status, stay active in community engagement, complete periodic tasks, participate in community events and activities.
-- Apply to become a Neurolanche Ambassador via this link: http://tinyurl.com/Neurolanche
+- Apply to become a Neurolanche Ambassador via this link: https://docs.google.com/forms/u/8/d/18ZzqaAqmQlX89MAG4wcOKioCv4BuLZ9SLv-56gR-eIg/
 
 
 3 - Welcome to the Neurolanche Ambassador Program
