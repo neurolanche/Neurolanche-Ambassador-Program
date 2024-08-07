@@ -322,11 +322,11 @@ Reward system:
 
 Head Ambassador
 - Monthly, consistently, 800 USD in NEROX (200 Nerox) tokens for each head Ambassador.
-- During ICO and fundraising, each ambassador receives a referral code. Earn a certain percentage from individuals who make purchases using the referral code
+- During ICO and fundraising, each head ambassador receives a referral code. Earn a certain percentage from individuals who make purchases using the referral code
 
 Ambassador
 
-- MMonthly, consistently, 500 USD in NEROX (125 Nerox) tokens for each head Ambassador.
+- MMonthly, consistently, 500 USD in NEROX (125 Nerox) tokens for each Ambassador.
 - During ICO and fundraising, each ambassador receives a referral code. Earn a certain percentage from individuals who make purchases using the referral code
 
 # How does the ambassador program work?
